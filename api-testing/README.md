@@ -42,6 +42,7 @@ Test Case Coverage
 Files Included
 	•	Postman Collection (.json)
 	•	API Test Case (.pdf)
+	•	API Test Case (.xlsx)
 	•	API Screenshots (.png)
 
 Tools Used
